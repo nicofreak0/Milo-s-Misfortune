@@ -28,7 +28,7 @@ public class PlayerController : MonoBehaviour
 
         // Horizontal input
         Vector2 movement = inputManager.GetPlayerMovement();
-        Vector3 move = new Vector3(movement.x, 0f, movement.y);
+        Vector3 move = movement.x * transform.right + movement.y * transform.forward;
         move = Vector3.ClampMagnitude(move, 1f); // Optional: prevents faster diagonal movement
 
         if (move != Vector3.zero)
