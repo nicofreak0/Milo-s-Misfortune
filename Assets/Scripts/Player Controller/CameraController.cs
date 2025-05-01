@@ -21,6 +21,6 @@ public class CameraController : MonoBehaviour
         startingRotation.x += deltaInput.x * Time.deltaTime;
         startingRotation.y += deltaInput.y * Time.deltaTime;
         startingRotation.y = Mathf.Clamp(startingRotation.y, -clampAngle, clampAngle);
-
+        //state.RawOrientation = Quaternion.Euler(startingRotation.y, startingRotation.x, 0f);
     }
 }
