@@ -59,6 +59,7 @@ namespace StarterAssets
 		private float _rotationVelocity;
 		private float _verticalVelocity;
 		private float _terminalVelocity = 53.0f;
+		public GameObject milo;
 
 		// timeout deltatime
 		private float _jumpTimeoutDelta;
@@ -148,6 +149,7 @@ namespace StarterAssets
 
 				// rotate the player left and right
 				transform.Rotate(Vector3.up * _rotationVelocity);
+
 			}
 		}
 
