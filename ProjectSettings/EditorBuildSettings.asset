@@ -6,8 +6,32 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Milo's Misfortune.unity
+    path: Assets/Scenes/Milo's Room.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Hallway.unity
+    guid: 50e3fd8309da4ff4dab0a66ed4d2c9b5
+  - enabled: 1
+    path: Assets/Scenes/Master Bedroom.unity
+    guid: 65da0789b156cd44a9a1f983f4b4938a
+  - enabled: 1
+    path: Assets/Scenes/Study.unity
+    guid: 563e493af7b78a34682525e088cf4316
+  - enabled: 1
+    path: Assets/Scenes/Bathroom.unity
+    guid: e4f232e05fe3f5f4ab75593cc886e325
+  - enabled: 1
+    path: Assets/Scenes/Living Room.unity
+    guid: eb9275f318451f74497b0bc21db11a3d
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: c15b32da1f7d9c2429b3b03f3bf56915
+  - enabled: 1
+    path: Assets/Scenes/Pantry.unity
+    guid: bb92c2c88622e44429f0c150f69528b9
+  - enabled: 1
+    path: Assets/Scenes/Outside.unity
+    guid: 7e9ccf5fbd649814980e3b3a45df80d2
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
