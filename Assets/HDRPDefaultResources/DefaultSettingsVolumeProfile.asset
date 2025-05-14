@@ -314,7 +314,7 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value:
       mode: 0
-      customValue: 125
+      customValue: 150
       additiveValue: 12.22
       multiplyValue: 16.37
   orientation:
@@ -2547,7 +2547,7 @@ MonoBehaviour:
       m_OverrideState: 1
       m_Value:
         mode: 0
-        customValue: 2000
+        customValue: 150
         additiveValue: 0
         multiplyValue: 1
     flowmap:
