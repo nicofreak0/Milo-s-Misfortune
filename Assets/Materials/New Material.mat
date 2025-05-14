@@ -86,7 +86,7 @@ Material:
     - _AddPrecomputedVelocity: 0
     - _AlphaClip: 0
     - _AlphaToMask: 0
-    - _AtmosphereThickness: 0.76
+    - _AtmosphereThickness: 0.3
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
@@ -114,7 +114,7 @@ Material:
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _SunDisk: 1
-    - _SunSize: 0.089
+    - _SunSize: 0.078
     - _SunSizeConvergence: 4.17
     - _Surface: 0
     - _WorkflowMode: 1
